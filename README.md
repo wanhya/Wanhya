@@ -26,4 +26,5 @@
        
  </div>
 
-    ![Snake animation](https://github.com/wanhya/Wanhya/blob/output/github-contribution-grid-snake.svg)
+   
+  ![Snake animation](https://github.com/wanhya/Wanhya/blob/output/github-contribution-grid-snake.svg)
