@@ -2,16 +2,12 @@
 
 
 
-- 🔭 Hoje trabalho como Analista de Requisitos
-- 🌱 Estudando JavaScript para desenvolvimento de chatbot
+- 👩‍💻 Hoje trabalho como **_Analista de Requisitos_**
+- 😀 Estudando **_JavaScript_** para desenvolvimento de chatbot
 - 📫 Contate-me pelo email wanhya2@hotmail.com
-- 😄 Pronomes: ela/dela
+- 👩 Pronomes: ela/dela
 
-<div>
-  <a href="https://github.com/wanhya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanhya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanhya&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
