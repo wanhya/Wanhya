@@ -1,6 +1,6 @@
 ### Olá, eu sou a Vania Santos 👋
 
-
+<img src = "https://img.flaticon.com/icons/png/512/2363/2363751.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width = "325px" align = "right">
 
 - 👩‍💻 Hoje trabalho como **_Analista de Requisitos_**
 - 😀 Estudando **_JavaScript_** para desenvolvimento de chatbot
