@@ -1,6 +1,8 @@
 ### Olá, eu sou a Vania Santos 👋
 
-<img src = "https://img.flaticon.com/icons/png/512/2363/2363751.png?size=1300x730f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width = "325px" align = "right">
+<!-- <img src = "https://img.flaticon.com/icons/png/512/2363/2363751.png?size=1300x730f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width = "325px" align = "right"> 
+<a href="https://www.imagensanimadas.com/cat-harry-potter-1248.htm"><img src="https://www.imagensanimadas.com/data/media/1248/harry-potter-imagem-animada-0034.gif" border="0" alt="harry-potter-imagem-animada-0034" /></a> -->
+<img src = "https://pa1.narvii.com/6498/36194b14766cb77194720a3cd6bd0d629251061d_hq.gif" width="200" align = "right">
 
 - 👩‍💻 Hoje trabalho como **_Analista de Requisitos_**
 - 😀 Estudando **_JavaScript_** para desenvolvimento de chatbot
