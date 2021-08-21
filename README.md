@@ -9,19 +9,23 @@
 - 👩 Pronomes: ela/dela
 
 
+
  <div style="display: inline_block"><br>
  <img align="center" alt="Van-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Van-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Van-R" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
- <img align="center" alt="Van-Express" height="30" width="70" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
- <img align="center" alt="Van-Mint" height="30" width="70" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
- <img align="center" alt="Van-Express" height="30" width="70" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
- <img align="center" alt="Van-Express" height="30" width="70" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+ <img align="center" alt="Van-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+ <img align="center" alt="Van-Express" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Van-Mint" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="center" alt="Van-Express" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Van-Express" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   
  </div>
+
+
   
   ##
 ### Conecte-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 
  <div> 
   <a href="https://instagram.com/wanhya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,4 +35,4 @@
  </div>
 
    
-![Snake animation](https://github.com/wanhya/Wanhya/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/wanhya/Wanhya/blob/output/github-contribution-grid-snake.svg) -->
