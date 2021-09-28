@@ -5,7 +5,7 @@
 <img src = "https://pa1.narvii.com/6498/36194b14766cb77194720a3cd6bd0d629251061d_hq.gif" width="200" align = "right">
 
 - 👩‍💻 Hoje trabalho como **_Analista de Requisitos_**
-- 😀 Estudando **_JavaScript_** para desenvolvimento de chatbot
+- 😀 Estudando **_JavaScript_** e **_Cypress_**
 - 👩 Pronomes: ela/dela
 
 
